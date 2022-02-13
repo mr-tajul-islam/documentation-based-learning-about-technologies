@@ -1,5 +1,7 @@
 # This Document will always help people those who are trying to learn something by reading documentation
 
+# Mastering Frontend
+
 # HTML5
 ![HTML](html5.png)
 
@@ -19,8 +21,16 @@ https://webplatform.github.io/docs/html/
 
 https://en.wikipedia.org/wiki/HTML
 
+https://www.tutorialrepublic.com/html-tutorial/
+
+https://www.web4college.com/html/index.php
+
+https://www.quackit.com/html/
+
+https://www.tagindex.net/html/
+
 # CSS3
-![HTML](css.png) 
+![CSS](css.png) 
 
 https://www.w3schools.com/css/default.asp
 
@@ -33,3 +43,12 @@ https://www.w3.org/Style/CSS/
 https://webplatform.github.io/docs/css/
 
 https://en.wikipedia.org/wiki/CSS
+
+https://www.tutorialrepublic.com/css-tutorial/
+
+https://www.web4college.com/css/
+
+https://www.quackit.com/css/
+
+https://www.tagindex.net/css/
+
