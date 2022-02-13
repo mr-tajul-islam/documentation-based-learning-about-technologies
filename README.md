@@ -1,6 +1,6 @@
 # This Document will always help people those who are trying to learn something by reading documentation
 
-# HTML 
+# HTML5
 ![HTML](html5.png)
 
 https://www.w3schools.com/html/default.asp
@@ -19,7 +19,7 @@ https://webplatform.github.io/docs/html/
 
 https://en.wikipedia.org/wiki/HTML
 
-# CSS 
+# CSS3
 ![HTML](css.png) 
 
 https://www.w3schools.com/css/default.asp
