@@ -20,6 +20,7 @@ https://webplatform.github.io/docs/html/
 https://en.wikipedia.org/wiki/HTML
 
 # CSS 
+![HTML](css.png) 
 
 https://www.w3schools.com/css/default.asp
 
