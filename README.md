@@ -57,3 +57,14 @@ https://www.tagindex.net/css/
 
 https://getbootstrap.com/
 
+https://www.w3schools.com/bootstrap/bootstrap_ver.asp
+
+https://github.com/twbs/bootstrap
+
+https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
+
+https://www.npmjs.com/package/bootstrap
+
+https://bootstrapshuffle.com/
+
+https://bootstrapshuffle.com/classes
