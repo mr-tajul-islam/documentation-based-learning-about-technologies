@@ -68,3 +68,22 @@ https://www.npmjs.com/package/bootstrap
 https://bootstrapshuffle.com/
 
 https://bootstrapshuffle.com/classes
+
+https://devdocs.io/bootstrap~5/
+
+# SASS
+![BOOTSTRAP](Bootstrap.svg) 
+
+https://sass-lang.com/
+
+https://www.w3schools.com/sass/sass_intro.php
+
+https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
+
+https://getbootstrap.com/docs/5.1/customize/sass/
+
+https://www.npmjs.com/package/sass
+
+https://devdocs.io/sass/
+
+https://sass-guidelin.es/
