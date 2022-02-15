@@ -72,7 +72,7 @@ https://bootstrapshuffle.com/classes
 https://devdocs.io/bootstrap~5/
 
 # SASS
-![BOOTSTRAP](Bootstrap.svg) 
+![SASS](Sass.png) 
 
 https://sass-lang.com/
 
