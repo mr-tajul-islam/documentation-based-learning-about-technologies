@@ -7,7 +7,7 @@
 [CSS3](#CSS3)   
 [BOOTSTRAP](#BOOTSTRAP)   
 [SASS](#SASS) 
-[TAILWINDCSS](#TAILWINDCSS) 
+[TAILWINDCSS](#TAILWIND-CSS) 
 
 
 
@@ -99,7 +99,7 @@ https://devdocs.io/sass/
 
 https://sass-guidelin.es/
 
-# TAILWIND CSS
+# TAILWIND-CSS
 ![TAILWIND CSS](tailwindcss.jpg)
 
 https://tailwindcss.com/
