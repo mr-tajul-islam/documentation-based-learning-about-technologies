@@ -94,3 +94,9 @@ https://sass-guidelin.es/
 https://tailwindcss.com/
 
 https://tailwindui.com/
+
+https://dev.to/naveennamani/generate-offline-documentation-of-tailwindcss-in-5-minutes-3o79
+
+https://www.npmjs.com/package/tailwindcss
+
+https://nerdcave.com/tailwind-cheat-sheet
