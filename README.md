@@ -2,7 +2,12 @@
 
 # What are you looking for buddy?
 
-- [TAILWIND CSS](# TAILWIND CSS)
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 # Mastering Frontend Tools
 
