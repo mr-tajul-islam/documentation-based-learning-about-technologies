@@ -3,7 +3,7 @@
 # What are you looking for buddy?
 
 ##### Table of Contents  
-[Headers](#headers)  
+[Headers](#CSS3)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
