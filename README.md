@@ -3,11 +3,9 @@
 # What are you looking for buddy?
 
 ##### Table of Contents  
-[Headers](#CSS3)  
+[CSS3](#CSS3)  
 [Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+  
 
 # Mastering Frontend Tools
 
