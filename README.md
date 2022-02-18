@@ -153,7 +153,15 @@ https://www.javatpoint.com/materialize-css-tutorial
 
 https://www.codegrepper.com/search.php?answer_removed=1&q=materialize.css%20documentation%200.97.7
 
+https://www.npmjs.com/package/materialize-css/v/0.97.6
 
+https://www.geeksforgeeks.org/materialize-css/
+
+https://www.tutorialspoint.com/materialize/materialize_tutorial.pdf
+
+https://npmmirror.com/package/materialize-css
+
+https://www.rubydoc.info/gems/materializecss
 
 
 
