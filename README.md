@@ -139,7 +139,7 @@ https://www.webiny.com/docs/how-to-guides/integrations/integrate-tailwindcss/
 https://github.com/tailwindlabs/tailwindcss.com
 
 # Materialize
-![Materialize](tailwindcss.jpg)
+![Materialize](Materialize.png)
 
 https://materializecss.com/
 
