@@ -138,7 +138,20 @@ https://www.webiny.com/docs/how-to-guides/integrations/integrate-tailwindcss/
 
 https://github.com/tailwindlabs/tailwindcss.com
 
+# Materialize
+![Materialize](tailwindcss.jpg)
 
+https://materializecss.com/
+
+https://www.um.es/docencia/barzana/materializecss/
+
+https://github.com/Dogfalo/materialize
+
+https://openbase.com/js/materialize-css/documentation
+
+https://www.javatpoint.com/materialize-css-tutorial
+
+https://www.codegrepper.com/search.php?answer_removed=1&q=materialize.css%20documentation%200.97.7
 
 
 
