@@ -168,3 +168,16 @@ https://www.rubydoc.info/gems/materializecss
 # Material_Design_Lite
 ![Material Design Lite](MaterialDesignLite.png)
 
+https://getmdl.io/
+
+https://www.wisdomjobs.com/e-university/material-design-lite-tutorial-1564.html 
+
+https://www.sitepoint.com/practical-introduction-material-design-lite-google/
+
+https://developers.google.com/web/updates/2015/08/material-design-lite-1-0-4-release
+
+https://www.tutorialspoint.com/materialdesignlite/index.htm
+
+https://material.io/develop/web/guides/migrating-from-mdl
+
+https://github.com/google/material-design-lite
