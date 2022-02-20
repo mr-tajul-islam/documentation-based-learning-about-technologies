@@ -21,6 +21,20 @@
 
 https://www.w3.org/
 
+https://www.w3schools.com/whatis/
+
+https://www.geeksforgeeks.org/web-development/
+
+https://developer.mozilla.org/en-US/docs/Learn
+
+https://www.codecademy.com/learn/paths/web-development
+
+https://careerfoundry.com/en/tutorials/web-development-for-beginners/introduction-to-web-development/
+
+https://www.tutorialspoint.com/website_development/index.htm
+
+
+
 
 # Mastering Frontend Tools
 
