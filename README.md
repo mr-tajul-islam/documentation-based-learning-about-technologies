@@ -211,3 +211,5 @@ https://github.com/google/material-design-lite
 https://bulma.io/
 
 https://bulma.io/documentation/
+
+https://versions.bulma.io/0.7.4/
