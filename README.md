@@ -243,3 +243,9 @@ https://github.com/foundation/foundation-docs
 
 https://www.npmjs.com/package/foundation-sites
 
+https://en.wikipedia.org/wiki/Foundation_(framework)
+
+https://www.w3resource.com/zurb-foundation3/introduction.php
+
+https://www.tutorialspoint.com/foundation/foundation_installation.htm
+
