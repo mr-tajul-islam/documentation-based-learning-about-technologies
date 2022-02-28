@@ -1,5 +1,3 @@
-# This Document will always help you to learn something by reading documentation
-
 # What are you looking for buddy?
 # Just click on your desired topics name
   
