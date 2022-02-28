@@ -259,3 +259,11 @@ http://getskeleton.com/
 https://cdnjs.com/libraries/skeleton
 
 https://www.w3schools.com/w3css/w3css_web_html.asp
+
+https://openbase.com/js/skeleton-css
+
+https://ieatcss.com/skeleton-tutorial.html
+
+https://www.sitepoint.com/getting-started-with-skeleton-simple-css-boilerplate/
+
+https://skeleton-elements.dev/core/
