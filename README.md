@@ -23,6 +23,8 @@
 
 [Skeleton](#Skeleton)
 
+[Semantic_UI](#Semantic_UI)
+
 # Learn Web Development
 
 https://www.w3.org/
@@ -271,3 +273,6 @@ https://skeleton-elements.dev/core/
 https://www.scribd.com/document/354677186/Getting-Started-With-Skeleton
 
 https://framework7.io/docs/skeleton
+
+# Semantic_UI
+![Semantic_UI](Semantic_UI.jpg)
