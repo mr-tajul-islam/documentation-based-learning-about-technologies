@@ -308,3 +308,10 @@ https://legacy.semantic-ui.com/project/development.html
 # Pure_CSS
 ![Pure_CSS](Pure_CSS.jpg)
 
+https://purecss.io/
+
+https://openbase.com/js/purecss/documentation
+
+https://www.tutorialspoint.com/purecss/index.htm
+
+https://github.com/pure-css/pure
