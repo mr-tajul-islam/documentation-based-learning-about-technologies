@@ -267,3 +267,5 @@ https://ieatcss.com/skeleton-tutorial.html
 https://www.sitepoint.com/getting-started-with-skeleton-simple-css-boilerplate/
 
 https://skeleton-elements.dev/core/
+
+https://www.scribd.com/document/354677186/Getting-Started-With-Skeleton
