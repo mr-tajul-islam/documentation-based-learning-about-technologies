@@ -276,3 +276,29 @@ https://framework7.io/docs/skeleton
 
 # Semantic_UI
 ![Semantic_UI](Semantic_UI.jpg)
+
+https://semantic-ui.com/
+
+https://cdnjs.com/libraries/semantic-ui
+
+https://github.com/Semantic-Org/Semantic-UI
+
+https://www.npmjs.com/package/semantic-ui-react
+
+https://www.freecodecamp.org/news/semantic-ui-guide/
+
+https://www.geeksforgeeks.org/semantic-ui/
+
+https://react.semantic-ui.com/
+
+https://semantic-ui-docs-gatsby.netlify.app/introduction/getting-started
+
+https://semantic-org.github.io/Semantic-UI-Ember/#/modules
+
+https://html5hive.org/semantic-ui-tutorial/
+
+https://www.npmjs.com/package/semantic-ui-react
+
+https://openbase.com/js/semantic-ui/documentation
+
+https://legacy.semantic-ui.com/project/development.html
