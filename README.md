@@ -19,7 +19,9 @@
 
 [Bulma](#Bulma) 
 
-[Foundation](#Foundation) 
+[Foundation](#Foundation)
+
+[Skeleton](#Skeleton)
 
 # Learn Web Development
 
@@ -248,4 +250,7 @@ https://en.wikipedia.org/wiki/Foundation_(framework)
 https://www.w3resource.com/zurb-foundation3/introduction.php
 
 https://www.tutorialspoint.com/foundation/foundation_installation.htm
+
+# Skeleton
+![Skeleton](Skeleton.jpg)
 
