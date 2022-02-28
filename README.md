@@ -254,3 +254,7 @@ https://www.tutorialspoint.com/foundation/foundation_installation.htm
 # Skeleton
 ![Skeleton](Skeleton.jpg)
 
+http://getskeleton.com/
+
+https://cdnjs.com/libraries/skeleton
+
