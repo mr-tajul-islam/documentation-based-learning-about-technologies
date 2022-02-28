@@ -315,3 +315,10 @@ https://openbase.com/js/purecss/documentation
 https://www.tutorialspoint.com/purecss/index.htm
 
 https://github.com/pure-css/pure
+
+https://responsivedesign.is/resources/frameworks/pure-css/
+
+https://www.javatpoint.com/what-is-pure-css
+
+https://yarnpkg.com/package/purecss
+
