@@ -25,6 +25,8 @@
 
 [Semantic_UI](#Semantic_UI)
 
+[Pure_CSS](#Pure_CSS) 
+
 # Learn Web Development
 
 https://www.w3.org/
@@ -302,3 +304,7 @@ https://www.npmjs.com/package/semantic-ui-react
 https://openbase.com/js/semantic-ui/documentation
 
 https://legacy.semantic-ui.com/project/development.html
+
+# Pure_CSS
+![Pure_CSS](Pure_CSS.jpg)
+
