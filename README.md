@@ -37,6 +37,8 @@
 
 18/[Tacit](#Tacit)
 
+19/[Mini_CSS](#Mini_CSS)
+
 # Learn Web Development
 
 https://www.w3.org/
@@ -450,7 +452,8 @@ https://project-awesome.org/troxler/awesome-css-frameworks
 
 https://www.reddit.com/r/programming/comments/32ianw/tacit_a_css_framework_without_classes/
 
-
+# Mini_CSS
+![Mini_CSS](public/images/mini.png)
 
 
 
