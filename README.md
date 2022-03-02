@@ -29,6 +29,8 @@
 
 [Milligram](#Milligram) 
 
+[Primer](#Primer)
+
 # Learn Web Development
 
 https://www.w3.org/
@@ -366,3 +368,5 @@ https://codepen.io/blossk/pen/VeWZwR
 
 https://openbase.com/js/milligram-scss/documentation
 
+# Primer
+![Primer](public/images/Primer.png)
