@@ -455,6 +455,20 @@ https://www.reddit.com/r/programming/comments/32ianw/tacit_a_css_framework_witho
 # Mini_CSS
 ![Mini_CSS](public/images/mini.png)
 
+https://minicss.org/docs
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/min()
+
+https://github.com/Chalarangelo/mini.css/
+
+https://medium.com/hackernoon/designing-a-simple-web-page-with-mini-css-f455e9f6403b
+
+
+
+
+
+
+
 
 
 
