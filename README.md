@@ -44,8 +44,6 @@ https://careerfoundry.com/en/tutorials/web-development-for-beginners/introductio
 https://www.tutorialspoint.com/website_development/index.htm
 
 
-
-
 # Mastering Frontend Tools
 
 # HTML5
@@ -76,7 +74,7 @@ https://www.quackit.com/html/
 https://www.tagindex.net/html/
 
 # CSS3
-![CSS](css.png) 
+![CSS](public/images/css.png) 
 
 https://www.w3schools.com/css/default.asp
 
@@ -101,7 +99,7 @@ https://www.tagindex.net/css/
 https://rtlcss.com/
 
 # BOOTSTRAP
-![BOOTSTRAP](Bootstrap.svg) 
+![BOOTSTRAP](public/images/Bootstrap.svg) 
 
 https://getbootstrap.com/
 
@@ -120,7 +118,7 @@ https://bootstrapshuffle.com/classes
 https://devdocs.io/bootstrap~5/
 
 # SASS
-![SASS](Sass.png) 
+![SASS](public/images/Sass.png) 
 
 https://sass-lang.com/
 
@@ -137,7 +135,7 @@ https://devdocs.io/sass/
 https://sass-guidelin.es/
 
 # TAILWIND_CSS
-![TAILWIND CSS](tailwindcss.jpg)
+![TAILWIND CSS](public/images/tailwindcss.jpg)
 
 https://tailwindcss.com/
 
@@ -172,7 +170,7 @@ https://www.webiny.com/docs/how-to-guides/integrations/integrate-tailwindcss/
 https://github.com/tailwindlabs/tailwindcss.com
 
 # Materialize
-![Materialize](Materialize.png)
+![Materialize](public/images/Materialize.png)
 
 https://materializecss.com/
 
@@ -197,7 +195,7 @@ https://npmmirror.com/package/materialize-css
 https://www.rubydoc.info/gems/materializecss
 
 # Material_Design_Lite
-![Material Design Lite](MaterialDesignLite.png)
+![Material Design Lite](public/images/MaterialDesignLite.png)
 
 https://getmdl.io/
 
@@ -214,7 +212,7 @@ https://material.io/develop/web/guides/migrating-from-mdl
 https://github.com/google/material-design-lite
 
 # Bulma
-![Bulma](bulma.jpg)
+![Bulma](public/images/bulma.jpg)
 
 https://bulma.io/
 
@@ -233,7 +231,7 @@ https://www.unpkg.com/browse/bulma@0.8.2/README.md
 http://bulma.filippotoso.com/ 
 
 # Foundation
-![Foundation](foundation.jpg)
+![Foundation](public/images/foundation.jpg)
 
 https://get.foundation/sites/docs/
 
@@ -256,7 +254,7 @@ https://www.w3resource.com/zurb-foundation3/introduction.php
 https://www.tutorialspoint.com/foundation/foundation_installation.htm
 
 # Skeleton
-![Skeleton](Skeleton.jpg)
+![Skeleton](public/images/Skeleton.jpg)
 
 http://getskeleton.com/
 
@@ -277,7 +275,7 @@ https://www.scribd.com/document/354677186/Getting-Started-With-Skeleton
 https://framework7.io/docs/skeleton
 
 # Semantic_UI
-![Semantic_UI](Semantic_UI.jpg)
+![Semantic_UI](public/images/Semantic_UI.jpg)
 
 https://semantic-ui.com/
 
@@ -306,7 +304,7 @@ https://openbase.com/js/semantic-ui/documentation
 https://legacy.semantic-ui.com/project/development.html
 
 # Pure_CSS
-![Pure_CSS](Pure_CSS.jpg)
+![Pure_CSS](public/images/Pure_CSS.jpg)
 
 https://purecss.io/
 
@@ -323,7 +321,7 @@ https://www.javatpoint.com/what-is-pure-css
 https://yarnpkg.com/package/purecss
 
 # UI_Kit
-![UI_Kits](uikit.png)
+![UI_Kits](public/images/uikit.png)
 
 https://getuikit.com/
 
