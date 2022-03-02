@@ -415,7 +415,13 @@ https://tomcam.gitbooks.io/spectre/content/
 # Susy
 ![Susy](public/images/susy.png)
 
+https://susy.readthedocs.io/
 
+https://www.oddbird.net/susy/docs/
+
+https://css-tricks.com/build-web-layouts-easily-susy/
+
+https://readthedocs.org/projects/susychina/downloads/pdf/latest/
 
 
 
