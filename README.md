@@ -339,7 +339,13 @@ https://graindashboard.com/documentation/
 
 https://developer.atlassian.com/platform/forge/ui-kit/
 
+https://devdocs.prestashop.com/1.7/development/uikit/
 
+https://www.npmjs.com/package/@amityco/ui-kit
+
+https://vr-uikit.epibyte.com.au/
+
+https://www.invisionapp.com/defined/ui-kit
 
 
 
