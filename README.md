@@ -434,7 +434,21 @@ https://learnsusy.zellwk.com/
 # Tacit
 ![Tacit](public/images/tacit.png)
 
+https://yegor256.github.io/tacit/
 
+https://github.com/yegor256/tacit
+
+https://www.npmjs.com/package/tacit-css
+
+https://www.yegor256.com/2015/04/13/tacit-css-framework-for-dummies.html
+
+https://snyk.io/advisor/npm-package/tacit-css
+
+https://www.cssbed.com/tacit/
+
+https://project-awesome.org/troxler/awesome-css-frameworks
+
+https://www.reddit.com/r/programming/comments/32ianw/tacit_a_css_framework_without_classes/
 
 
 
