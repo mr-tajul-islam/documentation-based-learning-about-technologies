@@ -37,7 +37,9 @@
 
 18/[Tacit](#Tacit)
 
-19/[Mini_CSS](#Mini_CSS)
+19/[Mini_CSS](#Mini_CSS) 
+
+20/[Min_CSS](#Min_CSS)
 
 # Learn Web Development
 
@@ -471,7 +473,8 @@ https://cdnjs.com/libraries/mini.css/2.3.7
 
 https://stackshare.io/mini-css
 
-
+# Min_CSS
+![Min_CSS](public/images/min.jpg)
 
 
 
