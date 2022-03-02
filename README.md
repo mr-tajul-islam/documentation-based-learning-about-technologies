@@ -358,3 +358,11 @@ https://www.npmjs.com/package/milligram
 
 https://cssrepo.com/lib/milligram-milligram
 
+https://cdnjs.com/libraries/milligram
+
+https://www.rubydoc.info/gems/milligram/1.3.0.0
+
+https://codepen.io/blossk/pen/VeWZwR
+
+https://openbase.com/js/milligram-scss/documentation
+
