@@ -1,5 +1,5 @@
 # What are you looking for buddy?
-# Tap on the topics name,Start Learning
+# Tap on the topic's name,Start Learning
   
 [HTML5](#HTML5)  
 
@@ -34,6 +34,8 @@
 [Spectre](#Spectre)
 
 [Susy](#Susy)
+
+[Tacit](#Tacit)
 
 # Learn Web Development
 
@@ -429,7 +431,8 @@ https://dev.mobify.com/v2.x/how-to-guides/categories/design/creating-responsive-
 
 https://learnsusy.zellwk.com/
 
-
+# Tacit
+![Tacit](public/images/tacit.png)
 
 
 
