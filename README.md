@@ -49,7 +49,7 @@ https://www.tutorialspoint.com/website_development/index.htm
 # Mastering Frontend Tools
 
 # HTML5
-![HTML](html5.png)
+![HTML](public/images/html5.png)
 
 https://www.w3schools.com/html/default.asp
 
