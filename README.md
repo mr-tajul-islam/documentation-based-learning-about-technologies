@@ -487,6 +487,18 @@ https://www.npmjs.com/package/@nib/css-framework
 # Blaze_CSS
 ![Blaze_CSS](public/images/blaze.png)
 
+https://blazecss.com/
 
+https://www.blazeui.com/
+
+https://www.npmjs.com/package/@blaze/css
+
+https://openbase.com/js/blaze/documentation
+
+http://blazejs.org/
+
+https://www.seekpng.com/ipng/u2w7t4w7o0r5t4i1_blaze-css-css-framework/
+
+https://blaze.today/commands/site/
 
 
