@@ -41,6 +41,8 @@
 
 20/[Min_CSS](#Min_CSS)
 
+21/[Blaze_CSS](#Blaze_CSS)
+
 # Learn Web Development
 
 https://www.w3.org/
