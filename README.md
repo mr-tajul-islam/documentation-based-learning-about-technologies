@@ -1,5 +1,5 @@
 # What are you looking for buddy?
-# Tap on the topic's name,Start Learning
+# Start Learning by tapping on topics name
   
 1/[HTML5](#HTML5)  
 
