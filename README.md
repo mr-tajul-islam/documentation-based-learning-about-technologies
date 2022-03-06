@@ -115,7 +115,7 @@ https://www.tagindex.net/css/
 https://rtlcss.com/
 
 # BOOTSTRAP
-![BOOTSTRAP](Bootstrap.svg) 
+![BOOTSTRAP](images/Bootstrap.svg) 
 
 https://getbootstrap.com/
 
