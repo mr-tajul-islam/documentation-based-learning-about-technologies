@@ -63,7 +63,7 @@ https://www.tutorialspoint.com/website_development/index.htm
 # Mastering Frontend Tools
 
 # HTML5
-![HTML](public/images/html5.png)
+![HTML](images/html5.png)
 
 https://www.w3schools.com/html/default.asp
 
@@ -90,7 +90,7 @@ https://www.quackit.com/html/
 https://www.tagindex.net/html/
 
 # CSS3
-![CSS](public/images/css.png) 
+![CSS](images/css.png) 
 
 https://www.w3schools.com/css/default.asp
 
@@ -115,7 +115,7 @@ https://www.tagindex.net/css/
 https://rtlcss.com/
 
 # BOOTSTRAP
-![BOOTSTRAP](public/images/Bootstrap.svg) 
+![BOOTSTRAP](Bootstrap.svg) 
 
 https://getbootstrap.com/
 
@@ -134,7 +134,7 @@ https://bootstrapshuffle.com/classes
 https://devdocs.io/bootstrap~5/
 
 # SASS
-![SASS](public/images/Sass.png) 
+![SASS](images/Sass.png) 
 
 https://sass-lang.com/
 
@@ -151,7 +151,7 @@ https://devdocs.io/sass/
 https://sass-guidelin.es/
 
 # TAILWIND_CSS
-![TAILWIND CSS](public/images/tailwindcss.jpg)
+![TAILWIND CSS](images/tailwindcss.jpg)
 
 https://tailwindcss.com/
 
@@ -186,7 +186,7 @@ https://www.webiny.com/docs/how-to-guides/integrations/integrate-tailwindcss/
 https://github.com/tailwindlabs/tailwindcss.com
 
 # Materialize
-![Materialize](public/images/Materialize.png)
+![Materialize](images/Materialize.png)
 
 https://materializecss.com/
 
@@ -211,7 +211,7 @@ https://npmmirror.com/package/materialize-css
 https://www.rubydoc.info/gems/materializecss
 
 # Material_Design_Lite
-![Material Design Lite](public/images/MaterialDesignLite.png)
+![Material Design Lite](images/MaterialDesignLite.png)
 
 https://getmdl.io/
 
@@ -228,7 +228,7 @@ https://material.io/develop/web/guides/migrating-from-mdl
 https://github.com/google/material-design-lite
 
 # Bulma
-![Bulma](public/images/bulma.jpg)
+![Bulma](images/bulma.jpg)
 
 https://bulma.io/
 
@@ -247,7 +247,7 @@ https://www.unpkg.com/browse/bulma@0.8.2/README.md
 http://bulma.filippotoso.com/ 
 
 # Foundation
-![Foundation](public/images/foundation.jpg)
+![Foundation](images/foundation.jpg)
 
 https://get.foundation/sites/docs/
 
@@ -270,7 +270,7 @@ https://www.w3resource.com/zurb-foundation3/introduction.php
 https://www.tutorialspoint.com/foundation/foundation_installation.htm
 
 # Skeleton
-![Skeleton](public/images/Skeleton.jpg)
+![Skeleton](images/Skeleton.jpg)
 
 http://getskeleton.com/
 
@@ -291,7 +291,7 @@ https://www.scribd.com/document/354677186/Getting-Started-With-Skeleton
 https://framework7.io/docs/skeleton
 
 # Semantic_UI
-![Semantic_UI](public/images/Semantic_UI.jpg)
+![Semantic_UI](images/Semantic_UI.jpg)
 
 https://semantic-ui.com/
 
@@ -320,7 +320,7 @@ https://openbase.com/js/semantic-ui/documentation
 https://legacy.semantic-ui.com/project/development.html
 
 # Pure_CSS
-![Pure_CSS](public/images/Pure_CSS.jpg)
+![Pure_CSS](images/Pure_CSS.jpg)
 
 https://purecss.io/
 
@@ -337,7 +337,7 @@ https://www.javatpoint.com/what-is-pure-css
 https://yarnpkg.com/package/purecss
 
 # UI_Kit
-![UI_Kits](public/images/uikit.png)
+![UI_Kits](images/uikit.png)
 
 https://getuikit.com/
 
@@ -362,7 +362,7 @@ https://vr-uikit.epibyte.com.au/
 https://www.invisionapp.com/defined/ui-kit
 
 # Milligram
-![Milligram](public/images/miligram.png)
+![Milligram](images/miligram.png)
 
 https://milligram.io/
 
@@ -381,7 +381,7 @@ https://codepen.io/blossk/pen/VeWZwR
 https://openbase.com/js/milligram-scss/documentation
 
 # Primer
-![Primer](public/images/Primer.png)
+![Primer](images/Primer.png)
 
 https://primer.style/css/
 
@@ -402,7 +402,7 @@ https://codesandbox.io/examples/package/@primer/css
 https://cdnjs.com/libraries/Primer
 
 # Spectre
-![Spectre](public/images/spectre.png)
+![Spectre](images/spectre.png)
 
 https://picturepan2.github.io/spectre/
 
@@ -421,7 +421,7 @@ https://npm.io/package/spectre.css-stylus
 https://tomcam.gitbooks.io/spectre/content/
 
 # Susy
-![Susy](public/images/susy.png)
+![Susy](images/susy.png)
 
 https://susy.readthedocs.io/
 
@@ -438,7 +438,7 @@ https://dev.mobify.com/v2.x/how-to-guides/categories/design/creating-responsive-
 https://learnsusy.zellwk.com/
 
 # Tacit
-![Tacit](public/images/tacit.png)
+![Tacit](images/tacit.png)
 
 https://yegor256.github.io/tacit/
 
@@ -457,7 +457,7 @@ https://project-awesome.org/troxler/awesome-css-frameworks
 https://www.reddit.com/r/programming/comments/32ianw/tacit_a_css_framework_without_classes/
 
 # Mini_CSS
-![Mini_CSS](public/images/mini.png)
+![Mini_CSS](images/mini.png)
 
 https://minicss.org/docs
 
@@ -476,7 +476,7 @@ https://cdnjs.com/libraries/mini.css/2.3.7
 https://stackshare.io/mini-css
 
 # Min_CSS
-![Min_CSS](public/images/min.jpg)
+![Min_CSS](images/min.jpg)
 
 https://mincss.com/
 
@@ -485,7 +485,7 @@ https://github.com/owenversteeg/min
 https://www.npmjs.com/package/@nib/css-framework
 
 # Blaze_CSS
-![Blaze_CSS](public/images/blaze.png)
+![Blaze_CSS](images/blaze.png)
 
 https://blazecss.com/
 
