@@ -64,7 +64,7 @@ https://careerfoundry.com/en/tutorials/web-development-for-beginners/introductio
 https://www.tutorialspoint.com/website_development/index.htm
 
 
-# Mastering Frontend Tools
+# Frontend Web Tools
 
 # HTML5
 ![HTML](images/html5.png)
