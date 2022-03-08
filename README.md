@@ -47,6 +47,8 @@
 
 23/[Furtive](#Furtive)
 
+24/[Fox_CSS](#Fox_CSS)
+
 # Learn Web Development
 
 https://www.w3.org/
@@ -548,4 +550,7 @@ https://kandi.openweaver.com/css/johno/furtive
 https://npm.io/package/furtive-code
 
 https://unpkg.com/browse/furtive-flag-object@0.0.1/README.md
+
+# Fox_CSS
+![Fox_CSS](images/Fox.png)
 
