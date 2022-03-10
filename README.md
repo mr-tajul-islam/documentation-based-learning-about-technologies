@@ -603,3 +603,23 @@ https://www.oreilly.com/library/view/linux-cookbook/0596006403/ch01.html
 http://www.penguintutor.com/linux/documentation-help-reference
 
 https://www.informit.com/articles/article.aspx?p=2928189&seqNum=4
+
+https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/
+
+https://www.lifewire.com/beginners-guide-to-linux-4090233
+
+https://levelup.gitconnected.com/beginners-guide-to-linux-f86a5782670e
+
+https://www.guru99.com/unix-linux-tutorial.html
+
+https://www.linux.com/training-tutorials/complete-beginners-guide-linux/
+
+https://linuxhint.com/linux-beginner-guide/
+
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+https://tldp.org/guides.html
+
+https://www.linux.org/forums/linux-beginner-tutorials.123/
+
+https://ryanstutorials.net/linuxtutorial/
