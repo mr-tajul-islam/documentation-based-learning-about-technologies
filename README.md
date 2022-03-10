@@ -569,7 +569,20 @@ https://www.npmjs.com/package/fox-css
 # OS(Operating System)  
 
 # Windows
-![Windows](images/Fox.png)
+![Windows](images/)
 
 # Linux
 ![Linux](images/Tux.svg.png)
+
+https://docs.kernel.org/
+
+https://linux.die.net/
+
+https://tldp.org/
+
+https://01.org/linuxgraphics/gfx-docs/drm/
+
+https://www.debian.org/doc/
+
+https://www.kali.org/docs/
+
