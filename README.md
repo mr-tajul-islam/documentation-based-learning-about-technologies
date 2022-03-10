@@ -556,3 +556,7 @@ https://unpkg.com/browse/furtive-flag-object@0.0.1/README.md
 
 https://fox-css.com/documents/
 
+https://github.com/ronanlevesque/FOX-CSS
+
+https://www.npmjs.com/package/fox-css
+
