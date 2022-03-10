@@ -1,4 +1,4 @@
-# Start Learning by tapping on topics name
+# Click on the topics name
   
 1/[HTML5](#HTML5)  
 
