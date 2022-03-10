@@ -49,6 +49,12 @@
 
 24/[Fox_CSS](#Fox_CSS)
 
+# OS(Operating System) 
+
+1/ [Windows](#Windows)
+
+2/ [Linux](#Linux)
+
 # Learn Web Development
 
 https://www.w3.org/
@@ -561,3 +567,9 @@ https://github.com/ronanlevesque/FOX-CSS
 https://www.npmjs.com/package/fox-css
 
 # OS(Operating System)  
+
+# Windows
+![Windows](images/Fox.png)
+
+# Linux
+![Linux](images/Tux.svg.png)
