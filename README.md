@@ -586,3 +586,20 @@ https://www.debian.org/doc/
 
 https://www.kali.org/docs/
 
+https://github.com/torvalds/linux/tree/master/Documentation
+
+https://www.kernel.org/doc/html/v4.10/index.html
+
+https://linuxmint.com/documentation.php
+
+https://docs.fedoraproject.org/en-US/docs/
+
+https://docs.rockylinux.org/
+
+https://linux-kernel-labs.github.io/refs/heads/master/
+
+https://www.oreilly.com/library/view/linux-cookbook/0596006403/ch01.html
+
+http://www.penguintutor.com/linux/documentation-help-reference
+
+https://www.informit.com/articles/article.aspx?p=2928189&seqNum=4
