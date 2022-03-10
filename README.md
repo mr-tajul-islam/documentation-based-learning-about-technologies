@@ -571,6 +571,28 @@ https://www.npmjs.com/package/fox-css
 # Windows
 ![Windows](images/windows.jpg)
 
+https://docs.microsoft.com/en-us/windows/
+
+https://docs.microsoft.com/en-us/documentation/
+
+https://docs.microsoft.com/en-us/
+
+https://docs.microsoft.com/en-us/windows-hardware/get-started/
+
+https://docs.microsoft.com/en-us/previous-versions/windows/
+
+https://docs.microsoft.com/en-us/windows-365/
+
+https://docs.microsoft.com/en-us/windows/apps/
+
+https://docs.microsoft.com/en-us/windows-server/
+
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+
+https://docs.microsoft.com/en-us/windows/win32/
+
+https://docs.microsoft.com/en-us/learn/
+
 # Linux
 ![Linux](images/Tux.svg.png)
 
