@@ -55,6 +55,8 @@
 
 2/ [Linux](#Linux)
 
+3/ [Ubuntu](#Ubuntu)
+
 # Learn Web Development
 
 https://www.w3.org/
@@ -645,3 +647,40 @@ https://tldp.org/guides.html
 https://www.linux.org/forums/linux-beginner-tutorials.123/
 
 https://ryanstutorials.net/linuxtutorial/
+
+# Ubuntu
+![Ubuntu](images/ubuntu.svg.png)
+
+http://ftp.labdoo.org/download/Public/manuals/help.ubuntu.com/
+
+https://www.accesstomemory.org/en/docs/2.7/admin-manual/installation/ubuntu/
+
+https://doc.ubuntu-fr.org/
+
+https://www.lifewire.com/beginners-guide-to-ubuntu-2205722
+
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+https://www.makeuseof.com/tag/ubuntu-an-absolute-beginners-guide/
+
+https://www.digitalocean.com/community/conceptual_articles/ubuntu-20-04-beginners-guide
+
+https://itsfoss.com/getting-started-with-ubuntu/
+
+https://helpdeskgeek.com/linux-tips/a-beginners-ubuntu-linux-guide/
+
+https://www.ubuntubeginner.com/
+
+https://linuxconfig.org/ubuntu-20-04-guide
+
+https://www.forbes.com/sites/jasonevangelho/2018/08/29/beginners-guide-how-to-install-ubuntu-linux/?sh=438f3ae4951c
+
+https://www.techrepublic.com/article/ubuntu-server-the-smart-persons-guide/
+
+https://ubuntu.com/core/docs
+
+https://help.ubuntu.com/
+
+https://docs.ubuntu.com/
+
+https://ubuntu.com/server/docs
