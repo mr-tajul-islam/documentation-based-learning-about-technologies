@@ -684,3 +684,6 @@ https://help.ubuntu.com/
 https://docs.ubuntu.com/
 
 https://ubuntu.com/server/docs
+
+http://ftp.labdoo.org/download/Public/manuals/manuals-ubuntu/EN/xx.xx-ubuntu-english-absolute%20beginners%20guide.pdf
+
