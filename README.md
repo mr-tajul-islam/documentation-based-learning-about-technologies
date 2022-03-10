@@ -569,7 +569,7 @@ https://www.npmjs.com/package/fox-css
 # OS(Operating System)  
 
 # Windows
-![Windows](images/)
+![Windows](images/windows.jpg)
 
 # Linux
 ![Linux](images/Tux.svg.png)
