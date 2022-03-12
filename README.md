@@ -49,7 +49,7 @@
 
 24/[Fox_CSS](#Fox_CSS)
 
-# OS(Operating System) 
+# OS(Operating System) 🧮 
 
 1/ [Windows](#Windows)
 
