@@ -573,6 +573,14 @@ https://www.npmjs.com/package/fox-css
 # Basscss
 ![Basscss](images/Basscss.png)
 
+https://basscss.com/
+
+https://basscss.com/v7/docs/
+
+https://github.com/basscss/basscss
+
+https://openbase.com/js/basscss-table-object/documentation
+
 ---------------------------------------------
 
 # OS(Operating System)  
