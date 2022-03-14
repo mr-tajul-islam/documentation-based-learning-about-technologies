@@ -587,6 +587,11 @@ https://openbase.com/js/basscss-table-object/documentation
 # Siimple
 ![Siimple](images/Siimple.jpg)
 
+https://docs.siimple.xyz/
+
+https://www.npmjs.com/package/siimple
+
+https://github.com/jmjuanes/siimple
 
 ---------------------------------------------
 
