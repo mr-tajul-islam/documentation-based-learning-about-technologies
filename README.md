@@ -53,6 +53,7 @@
 
 26/[Siimple](#Siimple)
 
+26/[Lotus](#Lotus)
 
 # OS(Operating System) 🧮 
 
@@ -592,6 +593,14 @@ https://docs.siimple.xyz/
 https://www.npmjs.com/package/siimple
 
 https://github.com/jmjuanes/siimple
+
+# Lotus
+![Lotus](images/lotus.png)
+
+https://goatslacker.github.io/lotus.css/
+
+https://github.com/goatslacker/lotus.css?files=1
+
 
 ---------------------------------------------
 
