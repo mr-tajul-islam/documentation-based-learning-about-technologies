@@ -606,6 +606,16 @@ https://github.com/goatslacker/lotus.css?files=1
 # Picnic
 ![Picnic](images/Picnic-css.png)
 
+https://picnicss.com/documentation
+
+https://picnicss.com/
+
+https://github.com/franciscop/picnic
+
+https://www.npmjs.com/package/picnic
+
+https://saravanakumargn.github.io/css-frameworks-compare/picnic/
+
 ---------------------------------------------
 
 # OS(Operating System)  
