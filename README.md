@@ -792,3 +792,19 @@ https://www.tutorialspoint.com/android/android_architecture.htm
 https://www.sciencedirect.com/topics/computer-science/mobile-operating-system
 
 https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Android/ANDROID%20OS.pdf
+
+https://www.javatpoint.com/android-operating-system
+
+https://www.ijeas.org/download_data/IJEAS0202022.pdf
+
+https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/WIKIPEDI/W120716A.pdf
+
+https://opensource.google/projects/android
+
+https://www.educba.com/android-operating-system/
+
+https://www.scribd.com/document/72123319/Android-Documentation
+
+https://www.researchgate.net/publication/299394606_Android_Operating_System_Architecture_Security_Challenges_and_Solutions
+
+https://en.wikipedia.org/wiki/Android_(operating_system)
