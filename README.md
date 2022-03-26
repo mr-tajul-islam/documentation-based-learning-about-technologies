@@ -781,3 +781,14 @@ http://ftp.labdoo.org/download/Public/manuals/manuals-ubuntu/EN/xx.xx-ubuntu-eng
 # Android
 ![Android](images/Android_robot_head.svg.png)
 
+https://source.android.com/
+
+https://developers.google.com/android
+
+https://en.wikipedia.org/wiki/Android_(operating_system)
+
+https://www.tutorialspoint.com/android/android_architecture.htm
+
+https://www.sciencedirect.com/topics/computer-science/mobile-operating-system
+
+https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Android/ANDROID%20OS.pdf
