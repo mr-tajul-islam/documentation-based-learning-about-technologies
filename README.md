@@ -662,6 +662,23 @@ https://compodoc.github.io/compodoc-demo-stencil/components/BeerDetail.html
 # Tachyon
 ![Tachyon](images/Tachyon.png)
 
+https://tachyons.io/docs/
+
+https://github.com/tachyons-css/tachyons-css.github.io
+
+https://vtex.github.io/vtex-tachyons/
+
+https://morioh.com/p/728c5ab087ff
+
+https://jsrepos.com/lib/tachyons-css-tachyons-javascript-css
+
+https://adigital.agency/blog/understanding-tachyons-css
+
+https://www.npmjs.com/package/tachyons
+
+https://package.elm-lang.org/packages/justgage/tachyons-elm/latest/Tachyons
+
+https://npmmirror.com/package/tachyons-css.github.io
 
 ---------------------------------------------
 
