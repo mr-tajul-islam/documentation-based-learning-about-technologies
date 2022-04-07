@@ -684,6 +684,7 @@ https://npmmirror.com/package/tachyons-css.github.io
 # PicoCSS
 ![PicoCSS](images/picocss.png)
 
+https://picocss.com/docs/
 
 ---------------------------------------------
 
