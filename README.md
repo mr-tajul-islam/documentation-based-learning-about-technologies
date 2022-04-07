@@ -686,6 +686,22 @@ https://npmmirror.com/package/tachyons-css.github.io
 
 https://picocss.com/docs/
 
+https://github.com/picocss/pico
+
+https://picocss.github.io/pico/docs/forms.html
+
+https://unpkg.com/browse/@picocss/pico@1.4.2/README.md
+
+https://www.cssscript.com/css-design-system-pico/
+
+https://coder.social/picocss
+
+https://project-awesome.org/troxler/awesome-css-frameworks
+
+https://www.bypeople.com/minimal-css-framework-for-semantic-html
+
+https://blog.appseed.us/lightweight-css-framework-curated-list/
+
 ---------------------------------------------
 
 # OS(Operating System)  
