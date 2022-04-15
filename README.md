@@ -707,11 +707,19 @@ https://blog.appseed.us/lightweight-css-framework-curated-list/
 # Cirrus
 ![Cirrus](images/CirrusLogo.png)
 
-git add .
-git commit -m "ok"
-git push
+https://spiderpig86.github.io/Cirrus/
 
+https://www.cirrus-ui.com/
 
+https://github.com/Spiderpig86/Cirrus
+
+https://openbase.com/js/cirrus-ui
+
+https://cssrepo.com/lib/Spiderpig86-Cirrus
+
+https://www.bypeople.com/cirrus-css-ui-framework/
+
+https://www.producthunt.com/posts/cirrus-v0-7
 
 ---------------------------------------------
 
