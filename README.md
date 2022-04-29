@@ -67,7 +67,10 @@
 
 33/[Cirrus](#Cirrus)
 
-33/[InuitCSS](#InuitCSS)
+34/[InuitCSS](#InuitCSS)
+
+35/[Stylify](#Stylify)
+
 
 
 # OS(Operating System) 🧮 
@@ -745,7 +748,8 @@ https://terabytenz.github.io/inuit.css-kitchensink/
 
 https://www.drupal.org/project/inuit
 
-
+# Stylify
+![Stylify](images/stylify.jpg)
 
 
 
