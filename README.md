@@ -727,6 +727,24 @@ https://www.producthunt.com/posts/cirrus-v0-7
 # InuitCSS
 ![InuitCSS](images/inuit.jpeg)
 
+http://inuitcss.com/
+
+https://openbase.com/js/inuitcss/documentation
+
+https://github.com/inuitcss/getting-started
+
+https://www.evoluted.net/thinktank/web-development/inuit-css-v5-0-the-object-oriented-css-framework
+
+https://webdesign.tutsplus.com/articles/rubbing-noses-with-inuitcss--webdesign-9523
+
+https://openpeerpower.io/sass/inuitcss/
+
+https://twitter.com/inuitcss?lang=en
+
+https://terabytenz.github.io/inuit.css-kitchensink/
+
+https://www.drupal.org/project/inuit
+
 
 
 
