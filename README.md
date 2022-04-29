@@ -67,6 +67,9 @@
 
 33/[Cirrus](#Cirrus)
 
+33/[InuitCSS](#InuitCSS)
+
+
 # OS(Operating System) 🧮 
 
 1/ [Windows](#Windows)
@@ -720,6 +723,13 @@ https://cssrepo.com/lib/Spiderpig86-Cirrus
 https://www.bypeople.com/cirrus-css-ui-framework/
 
 https://www.producthunt.com/posts/cirrus-v0-7
+
+# InuitCSS
+![InuitCSS](images/inuit.jpeg)
+
+
+
+
 
 ---------------------------------------------
 
