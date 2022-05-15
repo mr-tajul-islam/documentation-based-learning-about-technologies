@@ -77,7 +77,7 @@
 
 38/[KoutoSwiss](#KoutoSwiss)
 
-
+39/[Furatto](#Furatto)
 
 # OS(Operating System) 🧮 
 
@@ -824,6 +824,18 @@ https://www.designernews.co/comments/79581
 
 # Furatto
 ![Furatto](images/Furatto.png)
+
+https://icalialabs.github.io/furatto/docs/
+
+https://github.com/IcaliaLabs/furatto
+
+https://www.rubydoc.info/gems/furatto/1.5.0
+
+https://www.bestagencies.com/blog/furatto-a-flat-front-end-framework/
+
+https://coder.social/IcaliaLabs/furatto
+
+
 
 
 ---------------------------------------------
