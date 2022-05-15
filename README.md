@@ -822,6 +822,8 @@ https://webdesign.tutsplus.com/articles/six-awesome-things-you-can-do-with-kouto
 
 https://www.designernews.co/comments/79581
 
+# Furatto
+![Furatto](images/Furatto.png)
 
 
 ---------------------------------------------
